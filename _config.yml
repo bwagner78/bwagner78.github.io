@@ -14,8 +14,8 @@ author: Brett Wagner
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Sermons: ""https://www.sermonaudio.com/search.asp?speakeronly=true&currsection=sermonsspeaker&keyword=Brett_Wagner""
+About Me: "aboutme"
+Sermons: "https://www.sermonaudio.com/search.asp?speakeronly=true&currsection=sermonsspeaker&keyword=Brett_Wagner"
 
 # --- Logo --- #
 
@@ -47,7 +47,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-   instagram: brettwagner
+  instagram: brettwagner
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
