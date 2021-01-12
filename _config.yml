@@ -14,8 +14,9 @@ author: Brett Wagner
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-About Me: "aboutme"
-Sermons: "https://www.sermonaudio.com/search.asp?speakeronly=true&currsection=sermonsspeaker&keyword=Brett_Wagner"
+  About Me: "aboutme"
+  Tag Archive: "https://brettwagner.net/tags/"
+  Sermons: "https://www.sermonaudio.com/search.asp?speakeronly=true&currsection=sermonsspeaker&keyword=Brett_Wagner"
 
 # --- Logo --- #
 
