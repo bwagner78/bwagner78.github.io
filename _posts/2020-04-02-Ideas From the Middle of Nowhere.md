@@ -2,7 +2,8 @@
 layout: post
 title: Ideas From the Middle of Nowhere
 subtitle: How an 8-hour drive on I-5 led to a podcast
-image: /assets/img/OR_Logo.png
+cover-img: /assets/img/podcast-mic.jpg
+thumbnail-img: /assets/img/OR_Logo.png
 share-img: /assets/img/podcast-mic.jpg
 tags: [podcasting, theology, COVID]
 ---

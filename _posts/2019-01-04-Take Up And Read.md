@@ -2,8 +2,8 @@
 layout: post
 title: Take Up And Read!
 subtitle: Lessons learned in another year of reading
-bigimg: /assets/img/book_stack.jpg
-image: /assets/img/book_stack.jpg
+cover-img: /assets/img/book_stack.jpg
+thumbnail-img: /assets/img/book_stack.jpg
 share-img: /assets/img/book_stack.jpg
 tags: [books, reading, learning]
 ---
