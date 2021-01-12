@@ -2,7 +2,7 @@
 layout: post
 title: The Lies We Believe
 subtitle: Some Quick Thoughts About "The Shack" and Reading Fiction
-cover-img: /assets/img/the shack.jpg
+cover-img: /assets/img/path.jpg
 image: /assets/img/the shack.jpg
 thumbnail-img: /assets/img/the shack.jpg
 tags: [heresy, books, false teaching, The Shack]
