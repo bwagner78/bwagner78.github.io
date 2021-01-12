@@ -2,8 +2,8 @@
 layout: post
 title: 6 Reasons a Church Plant Will Fail
 subtitle: Lessons Learned Along The Way
-image: /img/Closed-Sign.png
-share-img: /img/closed-sign.png
+image: /assets/img/Closed-Sign.png
+share-img: /assets/img/closed-sign.png
 tags: [church-planting, leadership, learning]
 ---
 

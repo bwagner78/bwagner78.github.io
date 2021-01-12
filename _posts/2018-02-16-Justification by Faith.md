@@ -2,9 +2,9 @@
 layout: post
 title: Justification by Faith
 subtitle: Looking to the 1689 Confession for Help and Clarity 
-bigimg: /img/2lcf.jpg
-image: /img/BCF.jpeg
-share-img: /img/BCF.jpeg
+bigimg: /assets/img/2lcf.jpg
+image: /assets/img/BCF.jpeg
+share-img: /assets/img/BCF.jpeg
 tags: [2LCF, justification, doctrine, gospel]
 ---
 
