@@ -4,7 +4,7 @@ title: About Me
 subtitle: A bit of explanation is warranted
 ---
 
-![The face behind the words.](/assets/img/BW_Polaroid.png) {: .center-block :}
+![The face behind the words.](/assets/img/BW_Polaroid.png){: .center-block :}
 
 **Howdy, and welcome to my weblog.**
 
