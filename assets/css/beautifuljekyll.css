@@ -100,7 +100,7 @@ img::-moz-selection {
 
 img {
   max-width: 90%;
-  text-align: center;
+  align: center;
 }
 
 .linked-section {
