@@ -4,7 +4,9 @@ title: About Me
 subtitle: A bit of explanation is warranted
 ---
 
+{:refdef: style="text-align: center;"}
 ![The face behind the words.](/assets/img/BW_Polaroid.png)
+{: refdef}
 
 **Howdy, and welcome to my weblog.**
 
