@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Article: Reading the Psalms Theologically
+title: Reading the Psalms Theologically
 subtitle: Helpful Questions to Ask as You Read the Psalms
 bigimg: assets/img/David-harp.jpg
 image: assets/img/David-harp.jpg
