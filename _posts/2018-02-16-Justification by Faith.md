@@ -5,7 +5,7 @@ subtitle: Looking to the 1689 Confession for Help and Clarity
 cover-img: /assets/img/2lcf.jpg
 thumbnail-img: /assets/img/BCF.jpeg
 share-img: /assets/img/BCF.jpeg
-tags: [2LCF, justification, doctrine, gospel]
+tags: [2LCF, justification, theology, gospel]
 ---
 
 At the heart of the gospel lies the radical proclamation that God justifies the ungodly.[^1] To make such a claim would seem impossible, even blasphemous, was it not announced in the Scriptures themselves. 
