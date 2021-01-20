@@ -8,7 +8,6 @@ share-img: /assets/img/closed-sign.png
 tags: [church-planting, leadership, learning]
 ---
 
-
 I’m 0–2 in church planting. That’s right, of the two church plants I have helped start, I have also been the last guy standing, turning out the lights, and locking the door one final time. Now granted, the second of these church plants actually became a full-fledged church, the kind with members and deacons and elders. We covenanted together and shared in the Lord’s Supper. We supported a missionary, we saw conversions and prayed for more, we wept over the sin and hurt of others, and we rejoiced together in one another’s triumphs. The whole deal. But in the end, this work closed as well.
 
 I bring this up because, in the process of starting and ending, you learn a lot. You make some progress, you bang your head, get some bruises, and learn from it all–hopefully. Consider these scrapes and bruises as the testimony of lessons learned along the way. Either from personal experience or observing other churches, there is something to be gained in all of this.
