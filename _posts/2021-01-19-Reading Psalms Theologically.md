@@ -5,7 +5,7 @@ subtitle: Helpful Questions to Ask as You Read the Psalms
 bigimg: assets/img/David-harp.jpg
 image: assets/img/David-harp.jpg
 share-img: assets/img/David-harp.jpg
-tags: [article, Psalms,]
+tags: [article, Psalms]
 ---
 
 Matthew Emerson has written a really helpful article on reading the Psalms theologically. He makes the point that it is pretty easy to love particular psalms (like Psalm 23 or Psalm 1), but the better question is how can we grow in our love for the Psalter as a whole?
