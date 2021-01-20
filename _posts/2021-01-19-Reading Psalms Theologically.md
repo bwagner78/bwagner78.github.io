@@ -2,9 +2,9 @@
 layout: post
 title: Reading the Psalms Theologically
 subtitle: Helpful Questions to Ask as You Read the Psalms
-bigimg: assets/img/David-harp.jpg
-image: assets/img/David-harp.jpg
-share-img: assets/img/David-harp.jpg
+bigimg: /assets/img/David-harp.jpg
+image: /assets/img/David-harp.jpg
+share-img: /assets/img/David-harp.jpg
 tags: [article, Psalms]
 ---
 
