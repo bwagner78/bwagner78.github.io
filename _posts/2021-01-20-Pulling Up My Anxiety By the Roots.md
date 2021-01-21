@@ -3,7 +3,7 @@ layout: post
 title: Pulling Up My Anxiety By the Roots
 subtitle: How the obsession for control is the fertilizer of our anxious cares
 cover-img: /assets/img/roots.jpg
-thumbnail-img: /assets/img/roots.jpg
+thumbnail-img: /assets/img/roots-thumb.jpg
 share-img: /assets/img/roots.jpg
 tags: [anxiety]
 ---
