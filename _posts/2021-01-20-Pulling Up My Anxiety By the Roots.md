@@ -12,6 +12,8 @@ Do not be anxious about anything.
 
 Does such a command strike you as unhelpful or even insensitive? Does it seem like this is the last thing you would want to say to a friend who is weighed down by anxious care? 
 
+<!-- *break* -->
+
 Given the state of our world, the responsibilities of life, and our limited abilities, worry seems quite understandable. But the Scriptures point us in a different direction. The child of God is commanded to *not* be anxious. 
 
 But this prohibition of anxiety is not based on will power or even a shameful, "you should know better." The antidote for anxiety has everything to do with what we know of God himself.
