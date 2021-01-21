@@ -3,7 +3,7 @@ layout: post
 title: How I Fight Against Anxiety
 subtitle: The obsession for control is the fertilizer of our anxious cares
 cover-img: /assets/img/anxious-couch.jpg
-thumbnail-img: /assets/img/anxious-thumb.jpg
+thumbnail-img: /assets/img/anxious-thumb
 share-img: /assets/img/anxious-couch.jpg
 tags: [anxiety]
 ---
