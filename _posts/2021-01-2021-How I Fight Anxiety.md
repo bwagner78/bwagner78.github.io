@@ -5,7 +5,7 @@ subtitle: The obsession for control is the fertilizer of our anxious cares
 cover-img: /assets/img/anxious-couch.jpg
 thumbnail-img: /assets/img/anxious-couch.jpg
 share-img: /assets/img/anxious-couch.jpg
-tags: [anxiety,]
+tags: [anxiety]
 ---
 
 Do not be anxious about anything.
