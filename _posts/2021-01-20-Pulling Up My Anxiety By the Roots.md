@@ -1,10 +1,10 @@
 ---
 layout: post
-title: How I Fight Against Anxiety
-subtitle: The obsession for control is the fertilizer of our anxious cares
-cover-img: /assets/img/anxious-couch.jpg
-thumbnail-img: /assets/img/anxious-thumb.jpg
-share-img: /assets/img/anxious-couch.jpg
+title: Pulling Up My Anxiety By the Roots
+subtitle: How the obsession for control is the fertilizer of our anxious cares
+cover-img: /assets/img/roots.jpg
+thumbnail-img: /assets/img/roots.jpg
+share-img: /assets/img/roots.jpg
 tags: [anxiety]
 ---
 
@@ -12,31 +12,30 @@ Do not be anxious about anything.
 
 Does such a command strike you as unhelpful or even insensitive? Does it seem like this is the last thing you would want to say to a friend who is weighed down by anxious care? 
 
-{--break--}
-
-Given the state of our world, the responsibilities of life, and our limited abilities, anxiety and worry seem quite understandable. But the Scriptures point us in a different direction. The child of God is commanded to *not* be anxious. 
+Given the state of our world, the responsibilities of life, and our limited abilities, worry seems quite understandable. But the Scriptures point us in a different direction. The child of God is commanded to *not* be anxious. 
 
 But this prohibition of anxiety is not based on will power or even a shameful, "you should know better." The antidote for anxiety has everything to do with what we know of God himself.
 
 ### The Irony of Anxiety
-At their roots, anxiety and worry seethe over the things we cannot control. After all, if I could control these things, I would not need to be anxious! This is the folly of anxiety in the Christian's life. 
+At their roots, anxiety and worry seethe over the things that cannot be controlled. After all, if I could just fix these things, I would not need to be anxious! This is the folly of anxiety in the Christian's life. For the only areas we have reason to be anxious are the ones in which God has alerted us that he is unable to handle. 
 
-Really, the only areas we have reason to be anxious are the ones in which God has alerted us that he is unable to handle. I checked, and that list is blank!
+I checked, and that list is blank!
 
 *But have you noticed that most often, our obsessive concerns are for things for which God has made no promises?* 
 
-**God has NOT said** that we will have loads of money left over at the end of the month, or never know illness, or live a very long life, or that we will all marry and have children, or be spared from trials or hardships, or that we will see days of revival. Nowhere does God promise every Christian such things.
+*God has NOT said* that we will have loads of money left over at the end of the month, or never know illness, or live a very long life, or that we will all marry and have children, or be spared from trials or hardships, or that we will see days of revival. Nowhere does God promise every Christian such things.
 
-**But, God DOES promise every single Christian** that all things will work for our good, that he will make all grace always abound to us, grace that will be sufficient for every trial. 
-	- He has promised us that nothing can separate us from his love, and nothing can pluck us out of his hands. 
-	- He has promised he will supply all our needs richly. 
-	- He repeatedly affirms that he is not a distant God, but the Lord who is near and who abides with us.
+*But, God DOES promise* every single Christian that all things will work for our good, that he will make all grace always abound to us, grace that will be sufficient for every trial. 
+
+- He has promised us that nothing can separate us from his love, and nothing can pluck us out of his hands. 
+- He has promised he will supply all our needs richly. 
+- He repeatedly affirms that he is not a distant God, but the Lord who is near and who abides with us.
 
 So, in this sense, when Christians worry and become consumed with anxious care, we live as functional atheists. 
 
-We may profess Jesus is Lord with our *mouth*, but our worry exposes our *true unbelief*. After all, my anxiety is behaving as if God is not going to keep his word. I am acting as if God is unaware of my situation or unable to intervene. But Scripture and history prove neither of those are possibilities! For God's ability and God's compassion are two areas in which he has gone to *great lengths* to prove.
+I may profess Jesus is Lord with my *mouth*, but my worry exposes my *true unbelief*. After all, my anxiety is behaving as if God is not going to keep his word. I am acting as if God is unaware of my situation or unable to intervene. But Scripture and history prove neither of those are possibilities! For God's ability and God's compassion are two areas in which he has gone to *great lengths* to prove.
 
-**The problem with anxious care in the life of the Christian is that it is incompatible with Christ himself.** God has never given us the slightest reason to doubt his goodness or faithfulness to us.
+**The problem with anxious care in the life of the Christian is that it is incompatible with the greatest revelation of God’s care for us, the giving of Christ on our behalf.** God has never given us the slightest reason to doubt his goodness or faithfulness to us.
 
 > Isaiah 40:25–28 (ESV) — To whom then will you compare me, that I should be like him? says the Holy One. Lift up your eyes on high and see: who created these? He who brings out their host by number, calling them all by name; **by the greatness of his might and because he is strong in power**, not one is missing. Why do you say, O Jacob, and speak, O Israel, "My way is hidden from the LORD, and my right is disregarded by my God"? Have you not known? Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He does not faint or grow weary; his understanding is unsearchable.
 
