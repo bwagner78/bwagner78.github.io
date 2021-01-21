@@ -68,7 +68,7 @@ The two areas of my life that perpetuate worry and anxiety, my heart and mind, a
 > It is well, it is well with my soul
 
 ## The Promise of The Gospel and the Promise of Peace
-** Let's be perfectly clear: this sort of comfort and peace belongs to the Christian *alone*.** 
+**Let's be perfectly clear: this sort of comfort and peace belongs to the Christian *alone*.** 
 
 For the only one who could ever know peace in anxious times is *the one who calls upon God as Father*. And the only one who can rightfully do this *has trusted in his God's son Jesus.* 
 
