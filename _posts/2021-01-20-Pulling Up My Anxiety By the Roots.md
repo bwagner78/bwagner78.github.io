@@ -41,7 +41,7 @@ I may profess Jesus is Lord with my *mouth*, but my worry exposes my *true unbel
 
 Ultimately, the problem with anxiety is that it views the concerns of life detached from God's character. When I lie awake at 2:30 in the morning continually turning my problems over in my mind like a Rubik's Cube I am failing to see my concerns by the illumination of God's goodness, wisdom and power.
 
-So, it would make sense then that the solution for our anxious cares have are not rooted in pragmatic techniques or a change of circumstances but soaked in communion with God himself.
+So, it would make sense then that the solution for our anxious cares are not rooted in pragmatic techniques or a change of circumstances but soaked in communion with God himself.
 
 ### The Solution for Anxiety -- Prayer?
 
@@ -53,13 +53,14 @@ Prayer is not a magic spell or an incantation you speak to magically dissolve an
 
 Think about it, what is REALLY happening when we pray? When we pray, we are acknowledging two truths:
 
-1. **God is my Father**: *he is concerned, he is near, he is involved with the very details of my own life.*
+1. **God is my Father**: *he is concerned, he is near, he is involved with the very details of my own life and has invited me to cast my cares upon him.*
 2. **God is Sufficient**: *He spoke the universe into existence* he has revealed himself has Jehovah Jireh (the Lord will *provide*), Jehovah Shalom (the Lord our *peace*), Jehovah-Raah (The Lord our *Shepherd*). He splits seas and rivers in two and leads his people through them, he provides water from rocks, he turns the wilderness into an oasis, he defeated Satan, sin and death itself.
 
 Therefore, supplication and thanksgiving are spiritual battles against the anxious cares of my soul as I engage all I know to be true about God!
 
-- How can such worries exist as I let my requests be made known to this God who has declared he will never leave me or forsake me? 
-- How can such worries survive in a climate that testifies of God's infinite power and wisdom?
+How can such worries exist as I let my requests be made known to this God who has declared he will never leave me or forsake me? 
+
+How can such worries survive in a climate that testifies of God's infinite power and wisdom?
 
 Such knowledge not only repels anxiety, it continues to guard us against its assault as well. When we cast our cares upon God, we are promised God's own peace (which is beyond our understanding), will become a military garrison around our hearts and minds. 
 
