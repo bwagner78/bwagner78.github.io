@@ -3,15 +3,16 @@ layout: post
 title: How I Fight Against Anxiety
 subtitle: The obsession for control is the fertilizer of our anxious cares
 cover-img: /assets/img/anxious-couch.jpg
-thumbnail-img: /assets/img/anxious-couch.jpg
+thumbnail-img: /assets/img/anxious-thumb.jpg
 share-img: /assets/img/anxious-couch.jpg
 tags: [anxiety]
 ---
 
-
 Do not be anxious about anything.
 
 Does such a command strike you as unhelpful or even insensitive? Does it seem like this is the last thing you would want to say to a friend who is weighed down by anxious care? 
+
+<-break->
 
 Given the state of our world, the responsibilities of life, and our limited abilities, anxiety and worry seem quite understandable. But the Scriptures point us in a different direction. The child of God is commanded to *not* be anxious. 
 
@@ -47,7 +48,7 @@ So, it would make sense then that the solution for our anxious cares have are no
 
 > Philippians 4:6–7 (ESV) — do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus.
 
-Does it seem trite to suggest that prayer is the antidote to anxiety? * "Just pray about it?"* Well, it is only trite if we have a superficial view of prayer. 
+Does it seem trite to suggest that prayer is the antidote to anxiety? *"Just pray about it?"* Well, it is only trite if we have a superficial view of prayer. 
 
 Prayer is not a magic spell or an incantation you speak to magically dissolve anxiety. No, prayer is an exercise of faith! If anxiety finds its root in *unbelief*, prayer is a declaration of *faith* that God is both willing and able to care for his people. 
 
