@@ -8,6 +8,7 @@ share-img: /assets/img/anxious-couch.jpg
 tags: [anxiety]
 ---
 
+
 Do not be anxious about anything.
 
 Does such a command strike you as unhelpful or even insensitive? Does it seem like this is the last thing you would want to say to a friend who is weighed down by anxious care? 
