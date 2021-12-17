@@ -31,7 +31,7 @@ Let me illustrate. I can walk across my front lawn and step in a massive, steami
 
 This does not remove the fact that my dog had a specific intent as he deposited the package. Intent and subjective observations are distinct.  
 
-** Here's my point. With Young's recent release of *The Lies We Believe About God*, we can now read his fiction (The Shack) with the full disclosure of his greater world-view and theological framework.** 
+**Here's my point. With Young's recent release of *The Lies We Believe About God*, we can now read his fiction (The Shack) with the full disclosure of his greater world-view and theological framework.** 
 
 Illusions, images, and phrases that sounded an awful lot like universalism, unbiblical views of the Trinity, the human condition, and the atonement, now have substantial weight as we read of the author's actual views.
 
