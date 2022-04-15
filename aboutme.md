@@ -28,7 +28,7 @@ Well, I have [this to blame](https://www.challies.com/articles/why-you-shouldnt-
 
 * I am convinced we are the happiest when we are content with our relative obscurity and shrug our shoulders at the alluring 15 minutes of fame. It’s when we stop clamoring to become “world-changers” and swap out our selfish ambition for godliness with contentment. Or, to put it this way: *“to live a quiet life, to mind your own affairs, and to work with your hands”* (1 Thessalonians 4:11). Christian discipleship is the most subversive reformation imaginable.
 
-* Occasionally, I have been known to throw out a podcast now and then with [my wife](https://twitter.com/awags3) called [*Ordinary Reformation*](https://www.ordinaryreformation.com). This is just another expression of what I have become convinced of: theology matters. The doctrines of the Protestant Reformation are ***life-changing***, but not only for the seminary or bookish recluse—they have their most significant change within the every-day details of our ordinary lives.
+* Occasionally, ~~I have been known to throw out a podcast now and then~~ with [my wife](https://twitter.com/awags3) called [~~*Ordinary Reformation*~~](https://www.ordinaryreformation.com). This is just another expression of what I have become convinced of: theology matters. The doctrines of the Protestant Reformation are ***life-changing***, but not only for the seminary or bookish recluse—they have their most significant change within the every-day details of our ordinary lives.
 
 So there ya have it. 
 
