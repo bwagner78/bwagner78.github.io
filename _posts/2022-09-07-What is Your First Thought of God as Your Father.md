@@ -13,6 +13,8 @@ I recently picked up a book I have read before, but is worth reading again and a
 
 For example, how would you answer this question: *"what is your first thought of God as your Father?"*
 
+<!-- *read more* -->
+
 Got it? Now compare your answer to Owen's:
 
 > Let us then see the Father as full of love to us.
