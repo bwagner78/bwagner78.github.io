@@ -9,7 +9,7 @@ tags: [books, Communion With God, John Owen, Assurance]
 ---
 
 
-I recently picked up a book I have read before, but is worth reading again and again. Owen should be read slowly, thoughtfully, and repeatedly for there is so much good fruit to glean from his writings.
+I recently picked up a book I have read before but is worth reading again and again. Owen should be read slowly, thoughtfully, and repeatedly for there is so much good fruit to glean from his writings.
 
 For example, how would you answer this question: *"what is your first thought of God as your Father?"*
 
@@ -25,7 +25,7 @@ Got it? Now compare your answer to Owen's:
 
 > Let then this be the first thought that we have of the Father, that he is full of eternal love to us. Let our hearts and thoughts be filled with his love to us, even though many discouragements may lie in our way.
 
-If this sounds foreign to you, or even contradictory of what you know of God's holiness and justice, **[please pick up Owen and read more](https://banneroftruth.org/us/store/christian-living/communion-with-god/)**. Chapters 2 and 3 lay the foundation for why this wonderful news is not only true, but transformative. 
+If this sounds foreign to you or contradictory to what you know of God's holiness and justice, **[please pick up Owen and read more](https://banneroftruth.org/us/store/christian-living/communion-with-god/)**. Chapters 2 and 3 lay the foundation for why this wonderful news is not only true but transformative. 
 
 How frequently and how urgently we need the promise of the gospel to shape the way we think of our Heavenly Father!
 
