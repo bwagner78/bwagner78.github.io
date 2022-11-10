@@ -16,7 +16,7 @@ author: Brett Wagner
 navbar-links:
   About Me: "aboutme"
   Tag Archive: "https://brettwagner.net/tags/"
-  Sermons: "https://sermons.faithlife.com/profile/brettwagner1?layout=details&sort=datePresented%3Adesc"
+  Sermons: "https://www.sermonaudio.com/solo/veritasroseville/sermons/speakers/Brett%20Wagner/"
 
 # --- Logo --- #
 
@@ -40,7 +40,7 @@ social-network-links:
   email: "uplink_fajitas0s@icloud.com"
 # facebook: deanattali
 #  github: daattali
-#  twitter: 
+	twitter: "_brettwagner"
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  reddit: yourname
@@ -48,7 +48,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: brettwagner
+# instagram: brettwagner
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
