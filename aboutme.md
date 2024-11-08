@@ -22,9 +22,9 @@ Well, I have [this to blame](https://www.challies.com/articles/why-you-shouldnt-
 
 ### So, what you have here is a collection of “dispatches from ordinary life.” 
 
-* This is a peek into how this middle-aged guy is working out being a Protestant Christian, married to his wonderful wife for over 20 years, raising 4 kids, and seeking to be a faithful pastor. 
+* This is a peek into how this middle-aged guy is working out being a Protestant Christian, married to his wonderful wife for over 25 years, raising 4 kids, and seeking to be a faithful pastor. 
 
-* I am an unashamed devotee to the local church. She is the means God has chosen to change the world. Get on board.
+* I am an unashamed devotee of the local church. She is the means God has chosen to change the world. Get on board.
 
 * I am convinced we are the happiest when we are content with our relative obscurity and shrug our shoulders at the alluring 15 minutes of fame. It’s when we stop clamoring to become “world-changers” and swap out our selfish ambition for godliness with contentment. Or, to put it this way: *“to live a quiet life, to mind your own affairs, and to work with your hands”* (1 Thessalonians 4:11). Christian discipleship is the most subversive reformation imaginable.
 
