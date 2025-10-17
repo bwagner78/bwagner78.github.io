@@ -2,7 +2,6 @@
 layout: post
 title: Justification by Faith
 subtitle: Looking to the 1689 Confession for Help and Clarity 
-
 tags: [2LCF, justification, theology, gospel]
 ---
 
