@@ -1,17 +1,27 @@
 ---
 layout: post
 title: About
+subtitle: A bit of explanation is warranted
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+**Howdy, and welcome to my weblog.**
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
+Just what exactly have you stumbled upon here? Well, it is the place where I sporadically publish updates from ordinary life. Let me explain. 
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+Back in the 2000s, before corporations hijacked blogging to appear personal and side hustlers tried to make money on clicks, a blog was just people writing for other people to read. There wasn’t this salivating for likes, for clicks, for sharing, or SEO. Just writing. 
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+I am here for the writing—for the posts about family, [my church](https://veritasroseville.com), what I’m reading, random observations, or even the obscure memoir.
+
+Honestly, I have been a bit hesitant to write and post with any frequency. I have been hamstrung by the thought that someone else has probably already said it better than I would. So, why should I bother banging out a few more keystrokes on the matter?
+
+Well, I have [this to blame](https://www.challies.com/articles/why-you-shouldnt-stop-blogging-or-why-you-should-consider-starting/). And also [this](https://www.thatcontentshed.com/blog/whats-the-point).
+
+**So, what you have here is a collection of “dispatches from ordinary life.”** 
+
+* This is a peek into how this middle-aged guy is working out being a Protestant Christian, married to his wonderful wife for over 25 years, raising 4 kids, and seeking to be a faithful pastor. 
+
+* I am an unashamed devotee of the local church. She is the means God has chosen to change the world. Get on board.
+
+* I am convinced we are the happiest when we are content with our relative obscurity and shrug our shoulders at the alluring 15 minutes of fame. It’s when we stop clamoring to become “world-changers” and swap out our selfish ambition for godliness with contentment. Or, to put it this way: *“to live a quiet life, to mind your own affairs, and to work with your hands”* (1 Thessalonians 4:11). Christian discipleship is the most subversive reformation imaginable.
+
+So there ya have it. 
