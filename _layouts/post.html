@@ -26,6 +26,15 @@ layout: default
     {% endif %}
     <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
   </div>
+  
+  {% if page.categories %}
+  <p class="post-categories">
+    Categories:
+    {% for category in page.categories %}
+      <a href="{{ site.baseurl }}/categories/{{ category | slugify }}/">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+    {% endfor %}
+  </p>
+{% endif %}
 
   {% if site.disqus.shortname %}
     {% include disqus-comments.html %}
