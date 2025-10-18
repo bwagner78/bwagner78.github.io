@@ -1,8 +1,0 @@
----
-layout: default
----
-
-{% for tag in site.tags %}
-  {% capture tag_name %}{{ tag[0] }}{% endcapture %}
-  {% include tag-page.html tag=tag_name %}
-{% endfor %}
