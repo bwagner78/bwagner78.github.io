@@ -23,6 +23,20 @@ icon: /assets/images/icon-512.png
 # twitter_username: 
 # github_username:  
 
+collections:
+  tagpages:
+    output: true
+    permalink: /tags-:name/
+    
+    
+defaults:
+ 	- scope:
+   		path: ""
+    	type: tag
+    values:
+      layout: tag
+      
+      
 # Build settings
 markdown: kramdown
 
