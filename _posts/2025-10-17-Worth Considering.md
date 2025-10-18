@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Worth Considering
-categories: [poetry, quietness]
+tags: [poetry, quietness]
 ---
 
 Issue number eight of *[Mere Orthodoxy](https://mereorthodoxy.com/journal)* arrived in the mail this week and I was greeted with some wisdom from T.S. Elliot.

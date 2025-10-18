@@ -2,7 +2,7 @@
 layout: post
 title: Justification by Faith
 subtitle: Looking to the 1689 Confession for Help and Clarity 
-categories: [2LCF, justification, theology, gospel]
+tags: [2LCF, justification, theology, gospel]
 ---
 
 At the heart of the gospel lies the radical proclamation that God justifies the ungodly.[^1] To make such a claim would seem impossible, even blasphemous, was it not announced in the Scriptures themselves. 

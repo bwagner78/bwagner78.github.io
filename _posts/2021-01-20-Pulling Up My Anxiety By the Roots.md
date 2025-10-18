@@ -2,7 +2,7 @@
 layout: post
 title: Pulling Up My Anxiety By the Roots
 subtitle: How the obsession for control is the fertilizer of our anxious cares
-categories: [anxiety]
+tags: [anxiety]
 ---
 
 Do not be anxious about anything.

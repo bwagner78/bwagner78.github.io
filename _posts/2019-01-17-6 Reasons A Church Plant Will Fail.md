@@ -2,7 +2,7 @@
 layout: post
 title: 6 Reasons a Church Plant Will Fail
 subtitle: Lessons Learned Along The Way
-categories: [church-planting, leadership, learning]
+tags: [church-planting, leadership, learning]
 ---
 
 I’m 0–2 in church planting. That’s right, of the two church plants I have helped start, I have also been the last guy standing, turning out the lights, and locking the door one final time. Now granted, the second of these church plants actually became a full-fledged church, the kind with members and deacons and elders. We covenanted together and shared in the Lord’s Supper. We supported a missionary, we saw conversions and prayed for more, we wept over the sin and hurt of others, and we rejoiced together in one another’s triumphs. The whole deal. But in the end, this work closed as well.

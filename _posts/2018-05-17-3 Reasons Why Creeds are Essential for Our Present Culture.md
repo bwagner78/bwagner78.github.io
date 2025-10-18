@@ -2,7 +2,7 @@
 layout: post
 title: 3 Reasons Why Creeds are Essential for Our Present Culture
 subtitle: Surviving the Evangelical Identity Crisis
-categories: [theology, creeds, church]
+tags: [theology, creeds, church]
 ---
 
 
