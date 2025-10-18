@@ -2,8 +2,6 @@
 layout: post
 title: Reading the Psalms Theologically
 subtitle: Helpful Questions to Ask as You Read the Psalms
-
-tags: [article, Psalms, worth reading]
 ---
 
 Matthew Emerson has written a really helpful [article](https://credomag.com/2021/01/reading-the-psalms-theologically-part-one/) on reading the Psalms theologically. He makes the point that it is pretty easy to love particular psalms (like Psalm 23 or Psalm 1), but the better question is how can we grow in our love for the Psalter as a whole?
