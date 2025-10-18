@@ -19,3 +19,12 @@ $asset_url: '{{ '/assets' | absolute_url }}';
   "footnotes",
   "search"
 ;
+
+.post-tags {
+  margin-top: 2em;
+  font-style: italic;
+  font-size: 0.9em;
+}
+.post-tags a {
+  text-decoration: none;
+}
