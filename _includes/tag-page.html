@@ -1,0 +1,9 @@
+---
+---
+{% assign tag = include.tag %}
+<h2 id="{{ tag | slugify }}">{{ tag }}</h2>
+<ul>
+  {% for post in site.tags[tag] %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
