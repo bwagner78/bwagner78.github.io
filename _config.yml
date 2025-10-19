@@ -23,19 +23,18 @@ icon: /assets/images/icon-512.png
 # twitter_username: 
 # github_username:  
 
+# Tag pages auto-generation
 collections:
-  tagpages:
+  tags:
     output: true
     permalink: /tags-:name/
-    
-    
+
 defaults:
- 	- scope:
-   		path: ""
-    	type: tag
+  - scope:
+      path: ""
+      type: tags
     values:
       layout: tag
-      
       
 # Build settings
 markdown: kramdown

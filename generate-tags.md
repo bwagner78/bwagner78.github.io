@@ -1,13 +1,13 @@
 ---
 layout: null
-permalink: /tags-generator.html
+permalink: /generate_tags/
 ---
 
 {% for tag in site.tags %}
   {% capture tag_name %}{{ tag[0] }}{% endcapture %}
   ---
   layout: tag
-  name: {{ tag_name }}
+  tag: {{ tag_name }}
   permalink: /tags-{{ tag_name | slugify }}/
   ---
 {% endfor %}
