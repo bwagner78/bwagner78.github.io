@@ -54,5 +54,5 @@ markdown: kramdown
 plugins:
   - jekyll-paginate
 
-paginate: 6
+paginate: 12
 paginate_path: "/page/:num/"
