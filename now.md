@@ -14,7 +14,7 @@ I am currently preaching through the book of Genesis. It has been nearly 10 year
 I am working through Psalm 119 for our evening worship and prayer meeting. 
 
 ### Reading
-There are a few books or authors in constant rotation, the faithful voices that I love to return to. Currently, I am slowly reading through *[The Christian* Ministry](https://banneroftruth.org/us/store/church-ministry/the-christian-ministry/)*, by Charles Bridges, and *[Sin and Temptation](https://www.crossway.org/books/sin-and-temptation-hccase/), by John Owen. 
+There are a few books or authors in constant rotation, the faithful voices that I love to return to. Currently, I am slowly reading through *[The Christian Ministry](https://banneroftruth.org/us/store/church-ministry/the-christian-ministry/)*, by Charles Bridges, and *[Sin and Temptation](https://www.crossway.org/books/sin-and-temptation-hccase/)*, by John Owen. 
 
 The reading stack also includes:
 - *Given for You: Reclaiming Calvin’s Doctrine of the Lord’s Supper*, Keith Mathison
@@ -29,6 +29,7 @@ The now “Wagner 8” is doing great. JW was married this summer, and it was no
 
 Annie and I continued to be amazed by all of God’s kindness to us. We are absolutely loving this season of life.
 
+{: .text-center }
 ***
 
 Hat tip to Derek Sivers for the idea of a [“Now” page](https://nownownow.com/about). I’m not on social media, so this serves as a small way to stay connected through occasional updates, like I would when catching up with an old friend.
