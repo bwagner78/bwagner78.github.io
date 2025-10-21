@@ -9,7 +9,7 @@ title: Now
 
 
 ### Preaching & Teaching
-I am currently preaching through the book of Genesis. It has been nearly 10 years since I preached through this book, and I am really enjoying it. The biblical theology in this book continues to amaze me each week.
+I am currently preaching through the book of [Genesis](https://www.sermonaudio.com/series/202049). It has been nearly 10 years since I preached through this book, and I am really enjoying it. The biblical theology in this book continues to amaze me each week.
 
 I am working through Psalm 119 for our evening worship and prayer meeting. 
 
