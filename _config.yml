@@ -11,6 +11,7 @@
 
 # Name of website
 title: Field Notes
+subtitle: Dispatches from ordinary life
 
 # Your name to show in the footer
 author: Brett Wagner
@@ -21,10 +22,8 @@ author: Brett Wagner
 
 navbar-links:
   About Me: "about"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Sermons: "https://www.sermonaudio.com/speakers/27123"
+  Now: "now"
 
 ################
 # --- Logo --- #
@@ -86,7 +85,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Updates from brettwagner.me
 
 ###########################
 # --- General options --- #
