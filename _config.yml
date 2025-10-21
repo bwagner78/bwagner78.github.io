@@ -19,22 +19,10 @@ description: >- # this means to ignore newlines until "baseurl:"
  Dispatches from ordinary life
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bwagner78.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-icon: /assets/images/icon-512.png
+icon: /assets/images/icon-asterisk.png
 # twitter_username: 
 # github_username:  
 
-# Tag pages auto-generation
-collections:
-  tags:
-    output: true
-    permalink: /tags-:name/
-
-defaults:
-  - scope:
-      path: ""
-      type: tag
-    values:
-      layout: tag
       
 # Build settings
 markdown: kramdown

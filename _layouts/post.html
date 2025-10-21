@@ -27,14 +27,6 @@ layout: default
     <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
   </div>
   
-{% if page.tags %}
-  <p class="post-tags">
-    Tags:
-    {% for tag in page.tags %}
-      <a href="{{ '/tags-' | append: tag | slugify | append: '/' | relative_url }}">{{ tag }}</a>
-    {% endfor %}
-  </p>
-{% endif %}
 
   {% if site.disqus.shortname %}
     {% include disqus-comments.html %}
