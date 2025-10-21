@@ -5,7 +5,7 @@ title: Now
 
 # What I’m Doing Now
 
-Updated: 10-16-2025
+*Updated: 10-16-2025*
 
 
 ### Preaching & Teaching
@@ -29,7 +29,9 @@ The now “Wagner 8” is doing great. JW was married this summer, and it was no
 
 Annie and I continued to be amazed by all of God’s kindness to us. We are absolutely loving this season of life.
 
-{: .text-center }
+<div style="text-align:center">
 ***
+</div>
+
 
 Hat tip to Derek Sivers for the idea of a [“Now” page](https://nownownow.com/about). I’m not on social media, so this serves as a small way to stay connected through occasional updates, like I would when catching up with an old friend.
