@@ -2,33 +2,38 @@
 layout: default
 ---
 
-{% if site.data.menu %}
-  {% include menu.html %}
-{% else %}
-  {% include back-link.html %}
+<div class="post">
+  <div class="post-info">
+    <span>Written by</span>
+    {% if page.author %}
+        {{ page.author }}
+    {% else %}
+        {{ site.author.name }}
+    {% endif %}
+
+    {% if page.date %}
+      <br>
+      <span>on&nbsp;</span><time datetime="{{ page.date }}">{{ page.date | date: "%B %d, %Y" }}</time>
+    {% endif %}
+  </div>
+
+  <h1 class="post-title">{{ page.title }}</h1>
+  <div class="post-line"></div>
+
+  {{ content }}
+</div>
+
+{% if page.comments %}
+  {% include disqus_comments.html %}
 {% endif %}
 
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
-
-  {% if page.title != "" %}
-    <h1 class="post-title divided p-name" itemprop="name headline">
-      {{ page.title }}
-    </h1>
+<div class="pagination">
+  {% if page.next.url %}
+    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+  {% endif %}
+  {% if page.previous.url %}
+    <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow">&#8594;</a>
   {% endif %}
 
-  <div class="post-content e-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-
-  <div class="post-meta">
-    {% if page.author %}
-      <div itemprop="author">{{ page.author }}</div>
-    {% endif %}
-    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
-  </div>
-
-  {% if site.disqus.shortname %}
-    {% include disqus-comments.html %}
-  {% endif %}
-
-</article>
+  <a href="#" class="top">Top</a>
+</div>

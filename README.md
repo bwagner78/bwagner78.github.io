@@ -1,196 +1,132 @@
----
-layout: page
-title: "Hitchens"
----
+# Tale
 
-An inarguably well-designed [Jekyll](http://jekyllrb.com) theme by [Pat Dryburgh](https://patdryburgh.com).
+[![Gem Version](https://badge.fury.io/rb/tale.svg)](https://badge.fury.io/rb/tale)
 
-![Hitchens Preview](https://raw.githubusercontent.com/patdryburgh/hitchens/master/screenshot.png)
+Tale is a minimal Jekyll theme curated for storytellers. Checkout the demo [here](https://chesterhow.github.io/tale/).
 
-Undoubtably one of the great minds of our time, [Christopher Hitchens](https://en.wikipedia.org/wiki/Christopher_Hitchens) challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme's design is inspired by the trade paperback version his book, [Arguably](https://en.wikipedia.org/wiki/Arguably), and is dedicated to his memory.
+![Tale screenshot](http://i.imgur.com/pXZrtmo.png)
 
-## Quick Start
+## Features
+- Easy installation
+- Compatible with GitHub Pages
+- Responsive design (looks just as good on mobile)
+- Syntax highlighting, with the help of Pygments
+- Markdown and HTML text formatting
+- Pagination of posts
+- Sticky posts
+- Tags
+- Excerpt management
+- [Disqus comments (can be enabled if needed)](#enabling-comments)
 
-This theme is, itself, a Jekyll blog, meaning the code base you see has everything you need to run a Jekyll powered blog!
+## Installation
+There are 3 ways to install this theme
 
-To get started quickly, follow the instructions below:
+1. Install it as a Ruby Gem (for self-hosted sites)
+2. Install it with the `jekyll-remote-theme` plugin (for GitHub Pages hosted sites)
+3. Fork the project directly
 
-1. Click the `Fork` button at the top of [the repository](https://github.com/patdryburgh/hitchens/);
-2. Go to your forked repo's `Settings` screen;
-3. Scroll down to the `GitHub Pages` section;
-4. Under `Source`, select the `Master` branch;
-5. Hit `Save`.
-6. Follow [Jekyll's instructions to configure your new Jekyll site](https://jekyllrb.com/docs/configuration/).
-
-## Manual Installation
-
-If you've already created your Jekyll site or are comfortable with the command line, you can follow [Jekyll's Quickstart instructions](https://jekyllrb.com/docs/) add this line to your Jekyll site's `Gemfile`:
+### Ruby Gem method
+1. Add this line to your `Gemfile`:
 
 ```ruby
-gem "hitchens-theme"
+gem "tale"
 ```
 
-And add the following lines to your Jekyll site's `_config.yml`:
+2. Install the theme's gems and dependencies:
+
+```bash
+$ bundle
+```
+
+3. In `_config.yml` add these lines:
 
 ```yaml
-theme: hitchens-theme
+theme:      tale
+
+permalink:  /:year-:month-:day/:title
+paginate:   5
 ```
 
-Depending on your [site's configuration](https://jekyllrb.com/docs/configuration/options/), you may also need to add:
+Remove any other `theme:` lines.
 
-```yaml
-ignore_theme_config: true
-```
+4. Rename `index.md` to `index.html`. Without this, the `jekyll-paginate` gem will not work.
 
-And then on the command line, execute:
+5. In `about.md`, change the `layout:` field to `post`:
 
-    $ bundle
-
-Or install the theme yourself as:
-
-    $ gem install hitchens-theme
-
-## Usage
-
-### Home Layout
-
-The `home` layout presents a list of articles ordered chronologically. The theme uses [Jekyll's built-in pagination](https://jekyllrb.com/docs/pagination/#enable-pagination) which can be configured in your `_config.yml` file.
-
-The masthead of the home page is derived from the `title` and `description` set in your site's `_config.yml` file.
-
-#### Navigation
-
-To include a navigation menu in your site's masthead and footer:
-
-1. Create a `_data` directory in the root of your site.
-2. Add a `menu.yml` file to the `_data` directory.
-3. Use the following format to list your menu items:
-
-```
-- title: About
-  url: /about.html
-
-- title: Source
-  url: https://github.com/patdryburgh/hitchens
-```
-
-Be sure to start your `url`s with a `/`.
-
-#### Pagination
-
-To paginate your posts, add the following line to your site's `Gemfile`:
-
-```
-gem "jekyll-paginate"
-```
-
-Then, add the following lines to your site's `_config.yml` file:
-
-```
-plugins:
-  - jekyll-paginate
-
-paginate: 20
-paginate_path: "/page/:num/"
-```
-
-You can set the `paginate` and `paginate_path` settings to whatever best suits you.
-
-#### Excerpts
-
-To show [excerpts](https://jekyllrb.com/docs/posts/#post-excerpts) of your blog posts on the home page, add the following settings to your site's `_config.yml` file:
-
-```
-show_excerpts: true
-```
-
-By default, excerpts that have more than 140 characters will be truncated to 20 words. In order to override the number of words you'd like to show for your excerpts, add the following setting to your site's `_config.yml` file:
-
-```
-excerpt_length: 20
-```
-
-To disable excerpt truncation entirely, simply set `excerpt_length` to `0` in your site's `_config.yml` file, like so:
-
-```
-excerpt_length: 0
-```
-
-If you do this, the theme will still respect Jekyll's `excerpt_separator` feature as [described in the Jekyll documentation](https://jekyllrb.com/docs/posts/#post-excerpts).
-
-
-#### Title-less Posts
-
-If you want to publish posts that don't have a title, add the following setting to the [front matter](https://jekyllrb.com/docs/frontmatter/) of the post:
-
-```
-title: ""
-```
-
-When you do this, the home page will display a truncated [excerpt](https://jekyllrb.com/docs/posts/#post-excerpts) of the first paragraph of your post.
-
-Note that setting `excerpt_length` in your site's `_config.yml` file will set the length of _all_ excerpts, regardless of whether the post has a title or not. For posts with a title, the excerpt will appear under the title and slightly lighter. For title-less posts, the excerpt will appear as if it were a title.
-
-### Post Layout
-
-A sparsely decorated layout designed to present long-form writing in a manner that's pleasing to read.
-
-To use the post layout, add the following to your post's [front matter](https://jekyllrb.com/docs/frontmatter/):
-
-```
+```Markdown
 layout: post
 ```
 
-### Icons
+### GitHub Pages method
+1. Add these 2 lines in to your `Gemfile`:
 
-The [JSON Feed spec](https://jsonfeed.org/version/1) states that feeds should include an icon. To add your icon, add the following line in your site's `_config.yml` file:
-
-```
-feed_icon: /assets/images/icon-512.png
-```
-
-Then, replace the `/assets/images/icon-512.png` file with your own image.
-
-### Credits
-
-The theme credits that appear at the bottom of each page can be turned off by including the following line in your site's `_config.yml` file:
-
-```
-hide_credits: true
+```ruby
+gem "jekyll-remote-theme"
+gem "jekyll-paginate"
 ```
 
-### Search
+2. Install the newly added gems:
 
-The theme uses a [custom DuckDuckGo Search Form](https://ddg.patdryburgh.com) that can be turned off by including the following line in your site's `_config.yml` file: 
-
-```
-hide_search: true
+```bash
+$ bundle
 ```
 
-### Font
+3. In `_config.yml` add these lines:
 
-I spent a good amount of time trying to identify the font used on the front cover of the trade paperback version of Arguably. Unfortunately, I failed to accurately identify the exact font used. If you happen to know what font is used on the book cover, I would appreciate you [letting me know](mailto:hello@patdryburgh.com) :)
+```yaml
+remote_theme: chesterhow/tale
 
-The theme includes a version of [EB Garamond](https://fonts.google.com/specimen/EB+Garamond), designed by Georg Duffner and Octavio Pardo. It's the closest alternative I could come up with that included an open license to include with the theme.
+permalink:    /:year-:month-:day/:title
+paginate:     5
 
-A [copy of the license](https://github.com/patdryburgh/hitchens/blob/master/assets/fonts/OFL.txt) has been included in the `assets` folder and must be included with any distributions of this theme that include the EB Garamond font files.
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+```
 
-## Contributing & Requesting Features
+Remove any other `theme:` or `remote_theme:` lines.
 
-Bug reports, feature requests, and pull requests are welcome on GitHub at [https://github.com/patdryburgh/hitchens](https://github.com/patdryburgh/hitchens).
+4. Rename `index.md` to `index.html`. Without this, the `jekyll-paginate` gem will not work.
 
-This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+5. In `about.md`, change the `layout:` field to `post`:
 
-## Development
+```Markdown
+layout: post
+```
 
-To set up your environment to develop this theme, run `bundle install`.
+### Fork method
+1. Fork this repository
 
-The theme is setup just like a normal Jekyll site. To test the theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using the theme. Add pages, documents, data, etc. like normal to test the theme's contents. As you make modifications to the theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+2. Delete the unnecessary files/folders: `CODE_OF_CONDUCT.md`, `LICENSE`, `README.md`, `tale.gemspec`
+
+3. Delete the `baseurl` line in `_config.yml`:
+
+```yaml
+baseurl:  "/tale"   # delete this line
+```
+
+## Usage
+Once you've installed the theme, you're ready to work on your Jekyll site. To start off, I would recommend updating `_config.yml` with your site's details.
+
+To build and serve your site, run:
+
+```bash
+$ bundle exec jekyll serve
+```
+
+And you're all set! Head over to http://127.0.0.1:4000/ to see your site in action.
+
+### Enabling Comments
+Comments are disabled by default. To enable them, look for the following line in `_config.yml` and change `jekyll-tale` to your site's Disqus id.
+
+```yml
+disqus: jekyll-tale
+```
+
+Next, add `comments: true` to the YAML front matter of the posts which you would like to enable comments for.
+
+## Contributing
+Found a bug or have a suggestion? Feel free to create an issue or make a pull request!
 
 ## License
-
-The code for this theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-The font, EB Garamond, is Copyright 2017 The EB Garamond Project Authors and licensed under the [SIL Open Font License Version 1.1](https://github.com/patdryburgh/hitchens/blob/master/assets/fonts/OFL.txt).
-
-Graphics are released to the public domain.
+See [LICENSE](https://github.com/chesterhow/tale/blob/master/LICENSE)
