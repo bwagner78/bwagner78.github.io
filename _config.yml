@@ -34,6 +34,17 @@ plugins:
 permalink:      /:year-:month-:day/:title
 paginate:       6
 
+# Menu Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "New"
+    url: "/new"
+  - Sermons: "Sermons"
+    url: "https://www.sermonaudio.com/speakers/27123"
+
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
