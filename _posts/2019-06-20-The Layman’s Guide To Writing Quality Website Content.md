@@ -2,7 +2,7 @@
 layout: post
 title: The Layman’s Guide To Writing Quality Website Content
 subtitle: If you want your website to stand out from the drone of typical web traffic and engage your readers, follow these 10 practices.
-tags [writing, content development]
+tags: [writing, content development]
 ---
 
 
