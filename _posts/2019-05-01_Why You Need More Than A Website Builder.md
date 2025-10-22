@@ -3,6 +3,8 @@ layout: post
 title: Why You Need More Than A Website Builder
 subtitle: Looking Beyond The Allure of Shiny Templates, Free Trials, and Content Blocks
 tags: [writing, content development]
+---
+
 
 Chances are, if you have rummaged around the pile of build-your-own-website options, you have come across the wonderful world of website builders. These are the game-changers that allow the code-ignorant to publish their own website with a paint-by-numbers sort of approach. It sounds so easy, right?
 
