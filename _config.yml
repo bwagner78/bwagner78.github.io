@@ -46,7 +46,7 @@ navigation:
     url: "https://www.sermonaudio.com/speakers/27123"
 
 # Excludes
-exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec, .DS_Store ]
 
 # Disqus (Set to your disqus id)
 # disqus:         jekyll-tale
