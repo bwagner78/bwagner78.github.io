@@ -20,9 +20,9 @@ author: Brett Wagner
 ###############################################
 
 navbar-links:
-  About Me: "about"
+  About: "about"
   Now: "now"
-  Sermons "https://www.sermonaudio.com/speakers/27123"
+  Sermons: "https://www.sermonaudio.com/speakers/27123"
   
   
 ################
