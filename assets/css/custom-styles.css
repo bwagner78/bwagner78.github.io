@@ -1,0 +1,20 @@
+/* Desktop default */
+.navbar {
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  position: relative;
+  z-index: 1;
+}
+
+/* Mobile optimization */
+@media (max-width: 768px) {
+  .navbar {
+    background-size: contain;   /* Prevents zoom/stretch */
+    background-position: center; /* Keeps the most interesting contour centered */
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
