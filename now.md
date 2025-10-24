@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Now
+permalink: /Now
 ---
 
 # What I’m Doing Now
