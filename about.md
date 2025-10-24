@@ -2,7 +2,6 @@
 layout: post
 title: About
 subtitle: A bit of explanation is warranted
-permalink: /About
 ---
 
 **Howdy, and welcome to my weblog.**
