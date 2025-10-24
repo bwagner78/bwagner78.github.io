@@ -22,8 +22,8 @@ author: Brett Wagner
 ###############################################
 
 navbar-links:
-  About: "about.md"
-  Now: "now.md"
+  About: "/about"
+  Now: "/now"
   Sermons: "https://www.sermonaudio.com/speakers/27123"
   
   
