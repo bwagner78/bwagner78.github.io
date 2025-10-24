@@ -1,16 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
+---
+layout: base
+---
 
-  {% include head.html %}
+<div class="intro-header"></div>
 
-  <body>
+<main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
+  {% if page.before-content %}
+    <div class="before-content">
+      {% for file in page.before-content %}
+        {% include {{ file }} %}
+      {% endfor %}
+    </div>
+  {% endif %}
 
-    {% include navigation.html %}
+  {{ content }}
 
-    <main>
-      {{ content }}
-    </main>
-
-    {% include footer.html %}
-  </body>
-</html>
+  {% if page.after-content %}
+    <div class="after-content">
+      {% for file in page.after-content %}
+        {% include {{ file }} %}
+      {% endfor %}
+    </div>
+  {% endif %}
+</main>
