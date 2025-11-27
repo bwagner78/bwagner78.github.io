@@ -120,3 +120,7 @@ The task before us, parents and teachers, is not to produce well‑behaved rule 
 We are working and praying that by God's grace, faith, hope, and love will blossom. This is slower work, deeper work, and oftentimes the hard work. Yet this is the wonderful and sobering task before us as faithful stewards of God's grace.
 
 If virtue is _caught_, not produced by rules alone, then our greatest work is to become the kind of people whose lives invite imitation, growing in virtue so that others can see the path ahead and say, "follow me, as I follow Christ."
+
+---
+
+This was originally delivered as a lecture at the *Classical Journey* event for [Legacy Classical Academy](https://www.legacyschole.com/).
