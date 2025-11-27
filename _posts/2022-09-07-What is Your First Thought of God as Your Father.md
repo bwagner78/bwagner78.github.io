@@ -2,7 +2,7 @@
 layout: post
 title: What is Your First Thought of God as Your Father?
 subtitle: Seeing The Father As Full of Love For Us
-tags: [books, Communion With God, John Owen, Assurance]
+tags: [books, John Owen, Assurance, theology]
 ---
 
 

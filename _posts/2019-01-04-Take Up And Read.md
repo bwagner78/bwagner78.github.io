@@ -2,7 +2,7 @@
 layout: post
 title: Take Up And Read!
 subtitle: Lessons learned in another year of reading
-tags: [books, reading, learning]
+tags: [books, reading]
 ---
 
 A few years back, I took up the habit of writing down the books I read throughout the year. I know there are services out there intended to do this, but I always found them to be more cumbersome than helpful. In part, I wanted to measure my reading habits and consumption over the years, but I also knew that the simple act of writing the completed books down would help jog my memory of what I read last year or even last month.
