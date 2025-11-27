@@ -22,14 +22,14 @@ In her book, "On Reading Well," and she said,
 
 Her comment identified a gap I’ve long felt. A rule-heavy approach to character leaves us unready for the real demands of life.
 
-So, from that, here is the summation of what we will focus on: **Adhering to rules is much easier than growing and walking in wisdom. But where rules abound, virtue becomes like an unused muscle, atrophied and underdeveloped.** 
+**Adhering to rules is much easier than growing and walking in wisdom. But where rules abound, virtue becomes like an unused muscle, atrophied and underdeveloped.** 
 
 # Definitions & Illustrations
 Before we get too far down the road, let me try and apply some definition and context for my argument.
 
 First, what do I mean by "rule following?" Let me give you two illustrations.
 
-Rule following becomes a punch list, a checklist of items that must be completed and closely followed.** Much like Ikea assembly instructions, you just follow the steps. Now, this approach is helpful if you want to build Billy Bookcases, but what if someone asks you to build a different bookcase? Or, what if you don't have that painfully awkward tool that comes with every piece of Ikea furniture? Can you still build something without your punch list of box-checking? 
+Rule following becomes a punch list, a checklist of items that must be completed and closely followed. Much like Ikea assembly instructions, you just follow the steps. Now, this approach is helpful if you want to build Billy Bookcases, but what if someone asks you to build a different bookcase? Or, what if you don't have that painfully awkward tool that comes with every piece of Ikea furniture? Can you still build something without your punch list of box-checking? 
 
 Rule following becomes like working on an assembly line. It is possible to stand at the workstation and assemble part A into part B, move it down the line, doing that 100 times a day, 5 days a week, 52 weeks a year. You did your job, you assembled widgets. But a factory worker can "do his job" yet have no idea as to what the factory is actually producing and no concern for the bigger picture.
 
@@ -52,9 +52,9 @@ This is an important objection. As a Protestant with a high view of Scripture, s
 What’s striking is that earlier generations applied God’s commandments without falling into the rule-following problems we’re addressing. Dipping into the 16th and 17th century writings, we hear that the 8th commandment of "do not steal" should be understood as a duty to:
 
 
-> "...truth, faithfulness, and justice in contracts and commerce between man and man; rendering to every one his due; restitution of goods unlawfully detained from the right owners thereof; giving and lending freely, according to our abilities, and the necessities of others... (Westminster Longer Catechism, Q 141)
+> "...truth, faithfulness, and justice in contracts and commerce between man and man; rendering to every one his due; restitution of goods unlawfully detained from the right owners thereof; giving and lending freely, according to our abilities, and the necessities of others... (Westminster Larger Catechism, Q 141)
 
-And though the 9th commandment says plainly, “you shall not bear false witness,” Christians before us understood it as far more than simply _“don’t lie.”_ They saw it as teaching:
+And though the 9th commandment says plainly, “you shall not bear false witness,” Christians before us understood it as far more than simply _“don’t lie.”_ They saw it as:
 
 > preserving and promoting of truth between man and man, and the good name of our neighbor, as well as our own...a charitable esteem of our neighbors; loving, desiring, and rejoicing in their good name; sorrowing for, and covering of their infirmities; freely acknowledging of their gifts and graces, defending their innocency; a ready receiving of good report, and unwillingness to admit of an evil report...and practising of whatsoever things are true, honest, lovely, and of good report. (WLC Q 142)
 
@@ -72,9 +72,9 @@ In her book, "Ask of Old Paths," Grace Hamman writes,
 
 She emphasizes that while rules are narrow and often context-dependent, virtues expand and contract to fit individual lives and moments in history. 
 
-Courage remains courage, but it expands and contracts to fit the person or situation. A knight in combat, defending his homeland, has been an emblem of fortitude for centuries. A six-year-old would hopefully never have to go into battle, but we can think of some pretty courageous six-year-olds who nobly face difficulty at great cost. 
+Courage remains courage, but it expands and contracts to fit the person or situation. A knight in combat, defending his realm, has been an emblem of fortitude for centuries. A six-year-old would hopefully never have to go into battle, but we can think of some pretty courageous six-year-olds who nobly face difficulty at great cost. 
 
-Consider diligent reading and study. It looks one way for an eight-year-old and another for an eighteen-year-old. Rules stay narrow, but virtues adjust to the person and the moment.
+Consider also diligent reading and study. It should look one way for an eight-year-old and another for an eighteen-year-old. Rules stay narrow, but virtues adjust to the person and the moment.
 
 Rules would say, "If you are in a battle and someone throws a grenade, you must fall on it to save your brothers." But what if there are no grenades? What if I am not in the Marines? Do I need a whole new set of rules?
 
@@ -89,7 +89,7 @@ Rules address narrow slices of life. Their usefulness depends on whether circums
 
 Aquinas saw this as well. Laws offer broad direction, yet life often presents situations that the letter of the law can’t cover. For this, he pointed to _prudence_—the virtue that knows the right action, in the right way, at the right time, and applies the moral law wisely to real circumstances.
 
-In our own era, Alasdair MacIntyre has warned** that modern moral life has become a web of fragmented rules divorced from the traditions that once gave them meaning. Without shared virtues, rules lose their coherence and become arbitrary. But virtue restores unity by forming people capable of understanding both the aims of a community and the goods toward which our actions are directed.
+In our own era, Alasdair MacIntyre has warned that modern moral life has become a web of fragmented rules divorced from the traditions that once gave them meaning. Without shared virtues, rules lose their coherence and become arbitrary. But virtue restores unity by forming people capable of understanding both the aims of a community and the goods toward which our actions are directed.
 
 This is certainly the emphasis of Scripture as well. Solomon gathered thousands of proverbs because wisdom cannot be reduced to a simple set of commands. Wisdom literature assumes life’s complexity: one proverb urges answering a fool, another warns against it. The tension is intentional. It signals that wisdom, not rule following, determines the faithful response. 
 
@@ -102,9 +102,9 @@ In many ways, rules function like the grammar of character formation. Grammar is
 
 In the same way, rules establish the foundations of moral life, but they are only the beginning. They give shape, boundaries, and early guidance, yet they cannot produce maturity on their own.
 
-A child relies on rules because they lack judgment. They need explicit instructions for what to do and what to avoid. But as they grow, we expect them to move beyond *“nobody told me to do that”* or *“I didn’t know that was required.”* Those phrases are expressions of ~immaturity~, evidence that the person still depends entirely on ~external~ direction.
+A child relies on rules because they lack judgment. They need explicit instructions for what to do and what to avoid. But as they grow, we expect them to move beyond *“nobody told me to do that”* or *“I didn’t know that was required.”* Those phrases are expressions of immaturity, evidence that the person still depends entirely on external direction.
 
-Virtue, by contrast**, forms people who anticipate good, perceive what love requires, and take responsibility without being prompted. Maturity shows itself when someone recognizes the right action before a rule is invoked: seeing a need and meeting it, guarding a reputation without being asked, exercising patience when no one is watching. 
+Virtue, by contrast, forms people who anticipate good, perceive what love requires, and take responsibility without being prompted. Maturity shows itself when someone recognizes the right action before a rule is invoked: seeing a need and meeting it, guarding a reputation without being asked, exercising patience when no one is watching. 
 
 Rules can restrain, rebuke, and redirect, but only virtue can propel a person toward the good with wisdom and steadiness.
 
