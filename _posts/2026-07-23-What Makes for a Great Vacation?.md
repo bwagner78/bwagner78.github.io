@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: What Makes for a Great Vacation?
