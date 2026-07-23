@@ -5,7 +5,7 @@ subtitle:
 tags: [leisure, books, reflections]
 ---
 
-During each vacation for the past couple of years, I have made a habit of reading Josef Pieper’s Leisure the Basis of Culture.* He writes, “not to give advice and draw up a line of action” but to “make men think.”
+During each vacation for the past couple of years, I have made a habit of reading Josef Pieper’s *Leisure the Basis of Culture.* He writes, “not to give advice and draw up a line of action” but to “make men think.”
 
 And these are my thoughts.
 
