@@ -11,8 +11,15 @@
         </div>
       {% endif %}
       <p class="copyright text-muted">
-      {% if site.author %}
-        {{ site.author }}
+   {% if site.author %}
+        <span class="h-card">
+          <span class="p-name">{{ site.author }}</span>
+          <a class="u-url u-uid" href="{{ '/' | absolute_url }}" rel="me" style="display:none">brettwagner.me</a>
+          <img class="u-photo" src="{{ site.avatar | absolute_url }}" alt="" style="display:none">
+          <a class="u-email" href="mailto:brett.wagner78@gmail.com" rel="me" style="display:none">Email</a>
+          <a href="https://github.com/bwagner78" rel="me" style="display:none">GitHub</a>
+          <a href="https://mastodon.social/@YOURNAME" rel="me" style="display:none">Mastodon</a>
+        </span>
         &nbsp;&bull;&nbsp;
       {% endif %}
       {{ site.time | date: '%Y' }}

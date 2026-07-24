@@ -2,6 +2,8 @@
 layout: base
 ---
 
+<div class="h-entry">
+
 {% include header.html type="post" %}
 
 <main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
@@ -39,15 +41,20 @@ layout: base
         </div>
       {% endif %}
 
-      <div class="blog-post">
+      <div class="blog-post e-content">
         {{ content }}
       </div>
+
+      <span class="p-author h-card" style="display:none">
+        <a class="p-name u-url" href="{{ '/' | absolute_url }}">{{ site.author }}</a>
+      </span>
+      <a class="u-url" href="{{ page.url | absolute_url }}" style="display:none">Permalink</a>
 
       {% if page.tags.size > 0 %}
         <div class="blog-tags">
           <span>Tags:</span>
           {% for tag in page.tags %}
-            <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+            <a class="p-category" href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
           {% endfor %}
         </div>
       {% endif %}
@@ -86,3 +93,5 @@ layout: base
     </div>
   </div>
 </main>
+
+</div>
