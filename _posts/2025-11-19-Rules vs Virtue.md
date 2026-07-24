@@ -7,7 +7,7 @@ tags: [classical-education, virtue, lecture]
 ---
 
 
-I want to begin with a confession. I did not grow up with a Classical Education. I did not have *house groups*, identifying me with Augustine, Carey, Edwards, or Tolkien. I had *mascots*, which meant I was a Roadrunner, a Rattler, and a Bruin. Nor did I did not grow up with an emphasis upon virtues. These were categories, but of no relevance to me, assuming they were the time-capsuled language of the Victorian Era, and I gave them little to no thought.
+I want to begin with a confession. I did not grow up with a Classical Education. I did not have *house groups*, identifying me with Augustine, Carey, Edwards, or Tolkien. I had *mascots*, which meant I was a Roadrunner, a Rattler, and a Bruin. Nor did I grow up with an emphasis upon virtues. These were categories, but of no relevance to me, assuming they were the time-capsuled language of the Victorian Era, and I gave them little to no thought.
 
 I have another confession. I did grow up in a Christian home. I am so thankful to have parents who pointed me to Christ, drove me to church, opened the Bible, and led by example. And embedded in this Protestant Christian heritage is the emphasis upon godly character, morality, and being an example to others.
 
@@ -17,7 +17,7 @@ The question is, "how?" We often stress the importance of rules. Homes need rule
 
 Earlier this year, I was reading a book by Karen Swallow Prior, and she made a passing observation that captures the dilemma. It became a philosophical earworm. Just like that song that gets stuck in your head, the concept became inescapable.
 
-In her book, "On Reading Well," and she said,
+In her book, "On Reading Well," she said,
 
 > "...because no number of rules or laws could cover every moral or ethical choice we face, virtue picks up where rules leave off. And where rules abound, virtue, like an unused muscle, atrophies." KSP, On Reading Well, p 34
 
@@ -26,7 +26,7 @@ Her comment identified a gap I’ve long felt. A rule-heavy approach to characte
 **Adhering to rules is much easier than growing and walking in wisdom. But where rules abound, virtue becomes like an unused muscle, atrophied and underdeveloped.** 
 
 # Definitions & Illustrations
-Before we get too far down the road, let me try and apply some definition and context for my argument.
+Before we get too far down the road, let me try to apply some definitions and context for my argument.
 
 First, what do I mean by "rule following?" Let me give you two illustrations.
 
@@ -85,7 +85,7 @@ But virtuous living recognizes categories of injustice and justice (giving each 
 
 *Rules are rigid, virtues are flexible.*
 
-## (2) Rules are limited virtues are universal
+## (2) Rules are limited, virtues are universal
 Rules address narrow slices of life. Their usefulness depends on whether circumstances match the scenario they were designed to regulate. Virtues, by contrast, apply everywhere because they shape the kind of person one becomes.
 
 Aquinas saw this as well. Laws offer broad direction, yet life often presents situations that the letter of the law can’t cover. For this, he pointed to _prudence_—the virtue that knows the right action, in the right way, at the right time, and applies the moral law wisely to real circumstances.
