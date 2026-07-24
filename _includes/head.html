@@ -57,6 +57,8 @@
   {% if site.rss-description %}
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
   {% endif %}
+  
+  <link rel="webmention" href="https://webmention.io/brettwagner.me/webmention" />
 
   {% include gtag.html %}
   {% include gtm_head.html %}
