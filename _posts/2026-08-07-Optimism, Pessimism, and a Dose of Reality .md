@@ -34,7 +34,7 @@ Take a moment to quiz yourself:
 
 Likewise, there are some questions many of us would like to keep tucked away in a drawer, out of sight and out of mind. The sort of experiences, questions, or uncertainties that don't tie up nicely with a symmetrical bow. It is helpful, from time to time, to open that drawer of misfit toys and take an honest look. We need not fear that there is no answer, but we may want to be slower in providing the trite and didactic answer.
 
-In the end, God will put everything right, and we should prepare ourselves now to meet him, so that we can receive this fleeting life as the gift it is. Because life is short. Life is fleeting, like a mist, a vapor, a wisp of smoke. That can either be the greatest frustration or bring great freedom. It all depends on what you expect from this world and what this world is for. 
+In the end, God will put everything right, and we should prepare ourselves now to meet him, so that we can receive this fleeting life as the gift it is. Because life is short, like a mist, a vapor, a wisp of smoke. That can either be the greatest frustration or bring great freedom. It all depends on what you expect from this world and what this world is for. 
 
 It’s time to listen to the Preacher, the son of David, the king of Jerusalem.
 
