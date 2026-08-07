@@ -38,3 +38,6 @@ In the end, God will put everything right, and we should prepare ourselves now t
 
 It’s time to listen to the Preacher, the son of David, the king of Jerusalem.
 
+*Vanity of vanities, says the Preacher, vanity of vanities! All is vanity. What does man gain by all the toil at which he toils under the sun?*
+
+
