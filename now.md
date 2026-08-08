@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Now
+date: 2026-08-08
 ---
 
 # What I’m Doing Now
