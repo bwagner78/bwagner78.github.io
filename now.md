@@ -5,30 +5,32 @@ title: Now
 
 # What I’m Doing Now
 
-*Updated: 10-16-2025*
+*Updated: 2026-08-07*
 
 
 ### Preaching & Teaching
-I am currently preaching through the book of [Genesis](https://www.sermonaudio.com/series/202049). It has been nearly 10 years since I preached through this book, and I am really enjoying it. The biblical theology in this book continues to amaze me each week.
+I am about to embark on a series through the book of [Ecclesiastes](https://www.sermonaudio.com/series/220556). I have never preached through this book, and I am simultaneously giddy and doubting my sanity. Giddy, because it pulls together so many important threads that I love to think and write about. The lurking doubt stems from my dread of dragging the church through 15 weeks of existential angst or preaching the same sermon 15 times, all with slight variations upon “This world will never satisfy, but Jesus will.”
 
-I am working through Psalm 119 for our evening worship and prayer meeting. 
+Time will tell how my decision ages. But ultimately, all is vanity.
+
+I will also continue teaching through our Confession of Faith (2LCF) during our Sunday School hour, with an upcoming series on Discipleship in the fall.
+
 
 ### Reading
-There are a few books or authors in constant rotation, the faithful voices that I love to return to. Currently, I am slowly reading through *[The Christian Ministry](https://banneroftruth.org/us/store/church-ministry/the-christian-ministry/)*, by Charles Bridges, and *[Sin and Temptation](https://www.crossway.org/books/sin-and-temptation-hccase/)*, by John Owen. 
+There are a few books or authors in constant rotation, the faithful voices that I love to return to. Currently, I am rereading *[Princeton and Preaching](https://banneroftruth.org/us/store/pastors-special/princeton-and-preaching/)* by James Garreston. I also picked up a copy of *[The Peter Martyr Vermigli Reader](https://www.amazon.com/dp/1949716562)* that Davenant Press put out.
+
+This has also been the summer of Agatha Christie. Having never read her, I have plowed through 4 or 5 of her mysteries. I’m a fan.
 
 The reading stack also includes:
-- *Given for You: Reclaiming Calvin’s Doctrine of the Lord’s Supper*, Keith Mathison
-- *On Reading Well*, Karen Swallow Prior
+- *The Iliad*
+- *John Adams* by David McCullough (I may give up on this one)
+- *Perelandra* by C.S. Lewis (the fam is reading through the Ransom Trilogy)
 
-On my nightstand:
-- The Complete Grimms' Fairy Tales
-- The Poetry of Robert Frost
 
 ### Family
-The now “Wagner 8” is doing great. JW was married this summer, and it was nothing less than magical. KW is engaged to a wonderful young man, and we are in wedding planning mode. NW is now a licensed driver. FW is devouring books and dancing through life.
+The Lord continues to be wonderfully kind to us. JW graduated from Providence Christian College last spring (RIP) and will begin law school in the fall. KW is living in SoCal, certified as a doula and working full time for a pro-life medical clinic. NW will be starting her senior year. FW is devouring books and dancing through life.
 
-Annie and I continued to be amazed by all of God’s kindness to us. We are absolutely loving this season of life.
-
+July brought 3 weeks of vacation where all 7 of us spent a week at Lake Tahoe, then Annie & I adventured to the Caribbean, spending 5 days in Jamaica. The time away was wonderfully relaxing and full of sun, books, card games, movies, fly fishing, pipe tobacco, and naps. Truly, the Lord is good in all his ways.
 
 ***
 
