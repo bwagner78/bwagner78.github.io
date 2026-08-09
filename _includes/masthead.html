@@ -1,0 +1,16 @@
+<header class="masthead" role="banner">
+  <div class="masthead__card">
+    <p class="masthead__eyebrow">{{ site.established }}</p>
+    <a class="masthead__wordmark p-name" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <p class="masthead__subtitle">{{ site.subtitle }}</p>
+  </div>
+  <nav class="nav" aria-label="Primary">
+    {%- for item in site.data.menu -%}
+      {%- assign is_external = false -%}
+      {%- if item.url contains "://" -%}{%- assign is_external = true -%}{%- endif -%}
+      <a class="nav__link"
+         href="{% unless is_external %}{{ item.url | relative_url }}{% else %}{{ item.url }}{% endunless %}"
+         {% if is_external %}target="_blank" rel="noopener me"{% endif %}>{{ item.title }}</a>
+    {%- endfor -%}
+  </nav>
+</header>

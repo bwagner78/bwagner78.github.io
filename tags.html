@@ -1,36 +1,31 @@
 ---
-layout: page
-title: 'Tag Index'
+layout: default
+title: Tags
+permalink: /tags/
 ---
+<article class="page tags-index">
+  <h1 class="page__title">Filed under</h1>
 
-{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-
-{%- capture site_tags -%}
-    {%- for tag in site.tags -%}
-        {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
+  {%- comment -%} Alphabetical tag cloud that jumps to each group below. {%- endcomment -%}
+  <nav class="tags-cloud" aria-label="All tags">
+    {%- assign sorted_tags = site.tags | sort -%}
+    {%- for tag in sorted_tags -%}
+      <a href="#{{ tag[0] | slugify }}">{{ tag[0] }} ({{ tag[1].size }})</a>
     {%- endfor -%}
-{%- endcapture -%}
-{%- assign tags_list = site_tags | split:',' | sort -%}
+  </nav>
 
-{%- for tag in tags_list -%}
-    <a href="#{{- tag -}}" class="btn btn-primary tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})</a>
-{%- endfor -%}
-
-<div id="full-tags-list">
-{%- for tag in tags_list -%}
-    <h2 id="{{- tag -}}" class="linked-section">
-        <i class="fas fa-tag" aria-hidden="true"></i>
-        &nbsp;{{- tag -}}&nbsp;({{site.tags[tag].size}})
-    </h2>
-    <div class="post-list">
-        {%- for post in site.tags[tag] -%}
-            <div class="tag-entry">
-                <a href="{{ post.url | relative_url }}">{{- post.title | strip_html -}}</a>
-                <div class="entry-date">
-                    <time datetime="{{- post.date | date_to_xmlschema -}}">{{- post.date | date: date_format -}}</time>
-                </div>
-            </div>
+  {%- for tag in sorted_tags -%}
+    <section class="tag-group" id="{{ tag[0] | slugify }}">
+      <h2 class="tag-group__name">{{ tag[0] }}</h2>
+      <ul class="tag-group__list">
+        {%- assign posts_in_tag = tag[1] | sort: "date" | reverse -%}
+        {%- for post in posts_in_tag -%}
+          <li>
+            <span class="tag-group__date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a href="{{ post.url | relative_url }}">{{ post.title | default: "Untitled note" }}</a>
+          </li>
         {%- endfor -%}
-    </div>
-{%- endfor -%}
-</div>
+      </ul>
+    </section>
+  {%- endfor -%}
+</article>

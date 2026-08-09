@@ -1,0 +1,16 @@
+{%- if page.previous or page.next -%}
+<nav class="post-nav" aria-label="More writing">
+  <div class="post-nav__side post-nav__side--prev">
+    {%- if page.next -%}
+      <span class="post-nav__label">Newer</span>
+      <a class="post-nav__link" rel="prev" href="{{ page.next.url | relative_url }}">{{ page.next.title | default: "Untitled note" }}</a>
+    {%- endif -%}
+  </div>
+  <div class="post-nav__side post-nav__side--next">
+    {%- if page.previous -%}
+      <span class="post-nav__label">Older</span>
+      <a class="post-nav__link" rel="next" href="{{ page.previous.url | relative_url }}">{{ page.previous.title | default: "Untitled note" }}</a>
+    {%- endif -%}
+  </div>
+</nav>
+{%- endif -%}

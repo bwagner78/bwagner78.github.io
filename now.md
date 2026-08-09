@@ -35,6 +35,4 @@ July brought 3 weeks of vacation where all 7 of us spent a week at Lake Tahoe, t
 
 ***
 
-
-
 Hat tip to Derek Sivers for the idea of a [“Now” page](https://nownownow.com/about). I’m not on social media, so this serves as a small way to stay connected through occasional updates, like I would when catching up with an old friend.
