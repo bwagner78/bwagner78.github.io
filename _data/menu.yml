@@ -1,0 +1,17 @@
+# Navigation — appears in the masthead and footer.
+# Order here is the order shown. External links open in a new tab automatically.
+- title: Home
+  url: /
+
+- title: About
+  url: /about/
+  
+- title: Now
+  url: /now/ 
+
+- title: Sermons
+  url: https://www.sermonaudio.com/speakers/27123
+
+- title: Tags
+  url: /tags/
+

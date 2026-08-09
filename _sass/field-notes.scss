@@ -1,0 +1,358 @@
+// ===========================================================================
+//  Field Notes
+//  Aged paper · warm ink · loden green · oxblood accents.
+//  EB Garamond (reading) + IBM Plex Mono (catalog-card labels).
+// ===========================================================================
+
+// ---- Colour tokens --------------------------------------------------------
+// Light is the default. Dark applies via system preference OR an explicit
+// [data-theme] set by the footer toggle.
+
+:root {
+  --paper:      #f3efe3;   // aged, faintly green-grey ivory (not cream)
+  --paper-sunk: #ece6d6;   // slightly recessed panels / code
+  --ink:        #211e18;   // warm near-black
+  --ink-soft:   #5a5346;   // muted brown-grey for metadata
+  --accent:     #4a5a43;   // loden / forest green
+  --accent-2:   #7a3b34;   // oxblood (hover, visited)
+  --rule:       #d6cfbe;   // hairlines
+
+  --measure:    66ch;      // long-form reading width
+  --gap:        1.65rem;
+}
+
+@mixin dark-tokens {
+  --paper:      #191a17;
+  --paper-sunk: #21221d;
+  --ink:        #e7e0d0;
+  --ink-soft:   #9d9686;
+  --accent:     #8fa877;
+  --accent-2:   #c98b7f;
+  --rule:       #34342c;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) { @include dark-tokens; }
+}
+:root[data-theme="dark"] { @include dark-tokens; }
+
+// ---- Reset-ish ------------------------------------------------------------
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: "EB Garamond", Georgia, "Times New Roman", serif;
+  font-size: 1.22rem;
+  line-height: 1.62;
+  font-feature-settings: "liga", "kern";
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+img { max-width: 100%; height: auto; }
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 1px;
+  border-bottom: 1px solid color-mix(in srgb, var(--accent) 40%, transparent);
+  transition: color .15s ease, border-color .15s ease;
+}
+a:hover { color: var(--accent-2); border-bottom-color: var(--accent-2); }
+
+// Mono utility face for labels, dates, catalog-card text.
+%mono-label {
+  font-family: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  font-size: 0.72rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+// ---- Layout ---------------------------------------------------------------
+.wrap {
+  width: 100%;
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: 0 1.4rem;
+}
+
+.skip-link {
+  position: absolute;
+  left: -999px;
+  top: 0;
+  background: var(--ink);
+  color: var(--paper);
+  padding: .6rem 1rem;
+  border: 0;
+  z-index: 10;
+}
+.skip-link:focus { left: 0; }
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+// ---- Masthead (the "catalog card") ---------------------------------------
+.masthead {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: 3.2rem 1.4rem 1.4rem;
+}
+
+.masthead__card {
+  border-top: 2px solid var(--ink);
+  border-bottom: 1px solid var(--rule);
+  padding: 0.55rem 0 0.7rem;
+}
+
+.masthead__eyebrow { @extend %mono-label; margin: 0 0 0.35rem; }
+
+.masthead__wordmark {
+  display: inline-block;
+  font-size: clamp(2.1rem, 6vw, 2.9rem);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1;
+  color: var(--ink);
+  border: 0;
+}
+.masthead__wordmark:hover { color: var(--accent); }
+
+.masthead__subtitle {
+  margin: 0.4rem 0 0;
+  font-style: italic;
+  font-size: 1.12rem;
+  color: var(--ink-soft);
+}
+
+.nav {
+  max-width: var(--measure);
+  margin: 0 auto;
+  padding: 0.9rem 1.4rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.3rem;
+  justify-content: center;   /* ← add */
+}
+.nav__link {
+  @extend %mono-label;
+  color: var(--ink-soft);
+  border: 0;
+  padding-bottom: 2px;
+}
+.nav__link:hover { color: var(--accent-2); }
+
+// ---- Dinkus (asterism divider) -------------------------------------------
+.dinkus {
+  border: 0;
+  margin: 2.6rem 0;
+  text-align: center;
+  overflow: visible;
+}
+.dinkus::before {
+  content: "\2042";              // ⁂ asterism
+  display: inline-block;
+  color: var(--ink-soft);
+  font-size: 1.25rem;
+  letter-spacing: 0.3em;
+}
+
+// ---- Home: post list ------------------------------------------------------
+.home-intro { margin: 2rem 0 0; }
+
+.post-list { list-style: none; margin: 1.6rem 0 0; padding: 0; }
+
+.post-list__item {
+  padding: 1.9rem 0;
+  border-bottom: 1px solid var(--rule);
+}
+.post-list__item:first-child { padding-top: 0.6rem; }
+
+.post-list__meta { @extend %mono-label; margin: 0 0 0.5rem; }
+
+.post-list__title {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.2;
+  margin: 0 0 0.45rem;
+}
+.post-list__title a { color: var(--ink); border: 0; }
+.post-list__title a:hover { color: var(--accent); }
+
+.post-list__excerpt { margin: 0 0 0.55rem; color: var(--ink); }
+.post-list__note { margin: 0 0 0.5rem; }
+.post-list__note > :first-child { margin-top: 0; }
+.post-list__note > :last-child { margin-bottom: 0; }
+
+.read-more, .note-permalink {
+  @extend %mono-label;
+  color: var(--accent);
+  border: 0;
+}
+.read-more:hover, .note-permalink:hover { color: var(--accent-2); }
+
+// ---- Pagination -----------------------------------------------------------
+.pagination {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  margin: 2.4rem 0 0;
+}
+.pagination__link { @extend %mono-label; color: var(--accent); border: 0; }
+.pagination__link:hover { color: var(--accent-2); }
+.pagination__link--muted { color: var(--rule); }
+.pagination__count { @extend %mono-label; }
+
+// ---- Post & page ----------------------------------------------------------
+.post__header { margin: 1.2rem 0 1.8rem; }
+
+.post__title, .page__title {
+  font-size: clamp(1.9rem, 5vw, 2.5rem);
+  font-weight: 600;
+  line-height: 1.15;
+  letter-spacing: -0.01em;
+  margin: 0 0 0.6rem;
+}
+
+.post__meta { @extend %mono-label; margin: 0; }
+.post__meta-sep, .post__filed { margin: 0 0.15rem; }
+.tag-chip { color: var(--accent); border: 0; margin-right: 0.4rem; }
+.tag-chip:hover { color: var(--accent-2); }
+
+.post-content > :first-child { margin-top: 0; }
+
+.post-content h2 {
+  font-size: 1.55rem;
+  font-weight: 600;
+  line-height: 1.2;
+  margin: 2.4rem 0 0.7rem;
+}
+.post-content h3 {
+  font-size: 1.28rem;
+  font-weight: 600;
+  margin: 1.9rem 0 0.6rem;
+}
+.post-content p { margin: 0 0 var(--gap); }
+
+.post-content blockquote {
+  margin: var(--gap) 0;
+  padding: 0.2rem 0 0.2rem 1.3rem;
+  border-left: 3px solid var(--accent);
+  color: var(--ink-soft);
+  font-style: italic;
+}
+
+.post-content hr {
+  border: 0;
+  height: 1px;
+  background: var(--rule);
+  margin: 2.4rem 0;
+}
+
+.post-content ul, .post-content ol { margin: 0 0 var(--gap); padding-left: 1.4rem; }
+.post-content li { margin: 0.25rem 0; }
+
+.post-content code {
+  font-family: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+  font-size: 0.86em;
+  background: var(--paper-sunk);
+  padding: 0.12em 0.36em;
+  border-radius: 3px;
+}
+.post-content pre {
+  background: var(--paper-sunk);
+  padding: 1rem 1.15rem;
+  border-radius: 5px;
+  overflow-x: auto;
+  border: 1px solid var(--rule);
+  margin: 0 0 var(--gap);
+}
+.post-content pre code { background: none; padding: 0; font-size: 0.82rem; }
+
+.post-content a { }  // inherits link styling
+
+// Footnotes (kramdown)
+.footnotes { font-size: 0.95rem; color: var(--ink-soft); }
+
+// ---- Table of contents ----------------------------------------------------
+.toc {
+  margin: 0 0 2rem;
+  padding: 1rem 1.2rem;
+  background: var(--paper-sunk);
+  border: 1px solid var(--rule);
+  border-radius: 5px;
+}
+.toc__heading { @extend %mono-label; margin: 0 0 0.5rem; }
+.toc__list { list-style: none; margin: 0; padding: 0; }
+.toc__item { margin: 0.28rem 0; line-height: 1.35; }
+.toc__item--h3 { padding-left: 1.1rem; font-size: 0.95em; }
+.toc a { border: 0; }
+
+// ---- Post nav (prev / next) ----------------------------------------------
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.4rem;
+  margin: 1.6rem 0 0;
+}
+.post-nav__side { flex: 1 1 0; min-width: 0; }
+.post-nav__side--next { text-align: right; }
+.post-nav__label { @extend %mono-label; display: block; margin-bottom: 0.2rem; }
+.post-nav__link { color: var(--ink); font-style: italic; border: 0; }
+.post-nav__link:hover { color: var(--accent); }
+
+// ---- Footer / h-card ------------------------------------------------------
+.site-footer {
+  max-width: var(--measure);
+  margin: 3rem auto 3.4rem;
+  padding: 0 1.4rem;
+  text-align: center;   
+}
+.site-footer__card { margin: 0 0 0.4rem; }
+.site-footer__card .p-name { color: var(--ink); border: 0; font-weight: 500; }
+.site-footer__card .p-name:hover { color: var(--accent); }
+.site-footer__tagline { font-style: italic; color: var(--ink-soft); }
+.site-footer__sep { color: var(--rule); margin: 0 0.45rem; }
+.site-footer__meta { @extend %mono-label; }
+.site-footer__meta a { color: var(--ink-soft); border: 0; }
+.site-footer__meta a:hover { color: var(--accent-2); }
+
+.theme-toggle {
+  @extend %mono-label;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  color: var(--ink-soft);
+}
+.theme-toggle:hover { color: var(--accent-2); }
+
+// ---- Tags index -----------------------------------------------------------
+.tags-index { margin: 2rem 0 0; }
+.tags-cloud { display: flex; flex-wrap: wrap; gap: 0.5rem 0.9rem; margin: 0 0 2.4rem; }
+.tags-cloud a { @extend %mono-label; color: var(--accent); border: 0; }
+.tags-cloud a:hover { color: var(--accent-2); }
+.tag-group { margin: 0 0 2.2rem; scroll-margin-top: 1.5rem; }
+.tag-group__name { font-size: 1.3rem; font-weight: 600; margin: 0 0 0.6rem; }
+.tag-group__list { list-style: none; margin: 0; padding: 0; }
+.tag-group__list li { margin: 0.3rem 0; }
+.tag-group__date { @extend %mono-label; margin-right: 0.6rem; }
+
+// ---- Motion / responsive --------------------------------------------------
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; scroll-behavior: auto !important; }
+}
+
+@media (max-width: 34rem) {
+  body { font-size: 1.14rem; }
+  .post-nav { flex-direction: column; gap: 1rem; }
+  .post-nav__side--next { text-align: left; }
+}
