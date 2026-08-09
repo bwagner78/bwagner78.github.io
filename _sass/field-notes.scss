@@ -17,7 +17,7 @@
   --accent-2:   #7a3b34;   // oxblood (hover, visited)
   --rule:       #d6cfbe;   // hairlines
 
-  --measure:    66ch;      // long-form reading width
+  --measure:    70ch;      // long-form reading width
   --gap:        1.65rem;
 }
 
@@ -45,7 +45,7 @@ body {
   margin: 0;
   background: var(--paper);
   color: var(--ink);
-  font-family: "EB Garamond", Georgia, "Times New Roman", serif;
+  font-family: "Spectral", Georgia, "Times New Roman", serif;
   font-size: 1.22rem;
   line-height: 1.62;
   font-feature-settings: "liga", "kern";
