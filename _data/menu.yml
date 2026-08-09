@@ -1,7 +1,5 @@
 # Navigation — appears in the masthead and footer.
 # Order here is the order shown. External links open in a new tab automatically.
-- title: Home
-  url: /
 
 - title: About
   url: /about/
