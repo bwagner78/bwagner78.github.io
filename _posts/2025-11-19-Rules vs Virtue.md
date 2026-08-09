@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Rules vs. Virtue
-redirect_from: [/2025-11-19-Rules-vs-Virtue/]
 subtitle: The Unfortunate Cost of Rule-Following Alone
 toc: true
 tags: [classical-education, virtue, lecture]
