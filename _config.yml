@@ -14,6 +14,7 @@ author:
 # Your production URL. No trailing slash.
 url: "https://brettwagner.me"
 baseurl: ""
+default_image: "/assets/images/field-notes-card.png"
 
 # The masthead dateline (mono, catalog-card style)
 established: "Est. 2019"
